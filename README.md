@@ -2,13 +2,13 @@
 # Laboratorio SOC – Implementación de Wazuh
 
 ## 📌 Descripción
-Este laboratorio presenta la instalación, implementación de .
+Este laboratorio presenta la implementación del SIEM de Wazuh y su despliegue, para mostrar de forma sencilla como recopila los logs de las actividades
 
 ## 🎯 Objetivo
-- Practicar detección de intentos de fuerza bruta.
-- Configurar reglas de búsqueda y alertas.
-- Analizar logs de autenticación de Windows.
-
+- Implementación de un SIEM.
+- Aplicar configuración y despliegue de Wazuh
+- Demostrar la recepción de logs del SIEM Wazuh.
+  
 ## 🛠️ Herramientas utilizadas
 - VirtualBOx
 - Wazuh v4.12.0 OVA
