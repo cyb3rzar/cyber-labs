@@ -15,7 +15,7 @@ Este laboratorio presenta la implementación del SIEM de Wazuh y su despliegue, 
 - VM Windows 11
 
 ## 🔎 Pasos principales
-1. Instalación y configuración de Splunk en Ubuntu.
+1. Instalación y configuración de Wazuh OVA en VirtualBox.
 2. Importación de logs de autenticación de Windows.
 3. Creación de reglas de búsqueda para detectar intentos de login fallidos.
 4. Configuración de alertas ante intentos repetidos.
